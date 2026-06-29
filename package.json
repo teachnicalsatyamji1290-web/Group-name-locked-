@@ -1,0 +1,13 @@
+{
+  "name": "messenger-group-lock",
+  "version": "1.0.0",
+  "description": "Messenger Group Lock Bot by Satyam Pandey",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "fca-project-orion": "^1.1.0" 
+  }
+}
